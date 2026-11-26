@@ -98,4 +98,4 @@ Türler: `Join`, `Welcome`, `Error`, `Chat`, `Private`, `Notice`, `Users`.
 
 ## Öğrenci
 
-Ad Soyad - Öğrenci No
+Cuma Doğan 250542003
